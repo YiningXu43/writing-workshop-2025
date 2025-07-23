@@ -10,7 +10,12 @@ Dedicate 10 minutes to Part 1 and 5 minutes to Part 2.
 
 1. What is one aspect of data collection or variable creation, in your project, that you think will be particularly important to describe? Why?
 
-YOUR ANSWER HERE
+- filtering out: selected people with fitbit data on sleep stages and those who were diagnosed with T2DM. We selected participants that had more than 6 months duration of wearing the fitbit before and after they were diangosed with T2DM and at least more than 20 observations before and after.
+- important variables:
+- SES: education - only using education as SES indicator
+- Sleep: minutes asleep, minutes of deep sleep, minutes of REM sleep
+- Demographics: age, race, ethnicity, gender
+- health: hypertension status, BMI, step count, PSS (mental health), diabetes diagnosis date
 
 2. Can you think of a visualization that could support the discussion of this aspect in your methodology section? Describe it
 
